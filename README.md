@@ -22,6 +22,6 @@ O site de e-commerce foi desenvolvido com sucesso utilizando o WooCommerce e hos
 ## Conclusão
 O projeto demonstrou a eficácia do WooCommerce como uma solução de e-commerce versátil e de código aberto, além de proporcionar insights sobre os processos de hospedagem web utilizando a Hostinger. Recomendações para projetos futuros incluem a exploração de plugins e extensões adicionais do WooCommerce, bem como a consideração de outras opções de hospedagem para diferentes requisitos de projeto.
 
-##URL de acesso ao projeto
+## URL de acesso ao projeto
 
-###https://cloudsneakrs-top.preview-domain.com/shop/ 
+### https://cloudsneakrs-top.preview-domain.com/shop/ 
